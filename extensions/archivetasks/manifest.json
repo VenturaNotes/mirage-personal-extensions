@@ -1,0 +1,18 @@
+{
+  "id": "archivetasks",
+  "name": "ArchiveTasks",
+  "version": "1.0.0",
+  "description": "Automatically archive completed tasks from your active markdown notes into organized monthly archive files.",
+  "author": "VenturaNotes",
+  "capabilities": [
+    "action",
+    "vault-only"
+  ],
+  "searchKeywords": [
+    "tasks",
+    "archive",
+    "todo",
+    "productivity",
+    "notes"
+  ]
+}
